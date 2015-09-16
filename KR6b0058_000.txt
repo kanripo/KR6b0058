@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大莊嚴論經
+#+DATE: 2015-08-30 19:35:41.961336
+#+PROPERTY: JUAN 0
